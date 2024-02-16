@@ -1,0 +1,14 @@
+[
+  {
+    id: 'all',
+    name: 'All',
+  },
+  {
+    id: 'type1',
+    name: 'Type 1 Coffees',
+  },
+  {
+    id: 'type2',
+    name: 'Type 2 Coffees',
+  },
+]
