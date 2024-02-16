@@ -1,0 +1,37 @@
+[
+    {
+      id: '1',
+      name: 'Type 1 Coffee A',
+      description: 'Description for Type 1 Coffee A',
+      price: 5.0,
+      image: '../../../assets/images/capu.png',
+    },
+    {
+      id: '2',
+      name: 'Type 1 Coffee B',
+      description: 'Description for Type 1 Coffee B',
+      price: 6.5,
+      image: '../../../assets/images/capu.png',
+    },
+    {
+      id: '3',
+      name: 'Type 1 Coffee C',
+      description: 'Description for Type 1 Coffee C',
+      price: 7.5,
+      image: '../../../assets/images/capu.png',
+    },
+    {
+      id: '4',
+      name: 'Type 1 Coffee D',
+      description: 'Description for Type 1 Coffee D',
+      price: 8.0,
+      image: '../../../assets/images/capu.png',
+    },
+    {
+      id: '5',
+      name: 'Type 1 Coffee E',
+      description: 'Description for Type 1 Coffee E',
+      price: 9.0,
+      image: '../../../assets/images/capu.png',
+    },
+  ]
