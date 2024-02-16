@@ -1,0 +1,35 @@
+{
+  type1: [
+    {
+      id: '3',
+      name: 'Type 1 Coffee A',
+      description: 'Description for Type 1 Coffee A',
+      price: 5.0,
+      image: '../../../assets/images/capu.png',
+    },
+    {
+      id: '4',
+      name: 'Type 1 Coffee B',
+      description: 'Description for Type 1 Coffee B',
+      price: 6.5,
+      image: '../../../assets/images/capu.png',
+    },
+    // Thêm nhiều cà phê khác nếu cần
+  ],
+  type2: [
+    {
+      id: '5',
+      name: 'Type 2 Coffee X',
+      description: 'Description for Type 2 Coffee X',
+      price: 7.0,
+      image: '../../../assets/images/capu.png',
+    },
+    {
+      id: '6',
+      name: 'Type 2 Coffee Y',
+      description: 'Description for Type 2 Coffee Y',
+      price: 8.5,
+      image: '../../../assets/images/capu.png',
+    },
+  ],
+}
